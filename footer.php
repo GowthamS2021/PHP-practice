@@ -1,7 +1,7 @@
 
 <footer class="section">
 		<div class="center black-text"> 
-            Created For UG WebConvener assignment
+            Created For PHP-practice
         </div>
 	</footer>
 </body>
